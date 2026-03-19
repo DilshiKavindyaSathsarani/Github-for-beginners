@@ -25,3 +25,10 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 - **Date Added:** 
 
 
+### Dilshi Kavindya Sathsarani
+- **GitHub Username:** @DilshiKavindyaSathsarani
+- **Location:** Galle
+- **Background:** IT Student in Sabaragamuwa University
+- **Learning Goals:** Master Git workflows and collaborative development
+- **Fun Fact:** I can solve a Rubik's cube in under 2 minutes!
+- **Date Added:**March 19, 2026
